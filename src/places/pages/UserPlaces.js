@@ -32,6 +32,7 @@ const DUMMY_PLACES = [
 ];
 
 const UserPlaces = (props) => {
+	// 'userId' is from App.js <Route path='/:userId/places'>
 	const userId = useParams().userId;
 	const loadedPlaces = DUMMY_PLACES.filter((place) => place.creator === userId);
 	return <PlaceList items={loadedPlaces} />;
