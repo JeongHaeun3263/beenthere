@@ -11,8 +11,8 @@ const DUMMY_PLACES = [
 			'https://media.cnn.com/api/v1/images/stellar/prod/130802164459-skyscrapers-gallery-empire-state-building.jpg?q=w_3000,h_1687,x_0,y_134,c_crop/h_270,w_480',
 		address: '20 W 34th St, New York, NY 10001, United States',
 		location: {
-			lat: 43.6942894,
-			lng: -79.4591372,
+			lat: 40.74844,
+			lng: -73.987853,
 		},
 		creator: 'u1',
 	},
@@ -24,8 +24,8 @@ const DUMMY_PLACES = [
 			'https://media.cnn.com/api/v1/images/stellar/prod/130802164459-skyscrapers-gallery-empire-state-building.jpg?q=w_3000,h_1687,x_0,y_134,c_crop/h_270,w_480',
 		address: '20 W 34th St, New York, NY 10001, United States',
 		location: {
-			lat: 43.6942894,
-			lng: -79.4591372,
+			lat: 40.7484405,
+			lng: -73.9878531,
 		},
 		creator: 'u2',
 	},
